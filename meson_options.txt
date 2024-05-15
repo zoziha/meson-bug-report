@@ -1,0 +1,2 @@
+option('C2', type: 'boolean', value: false, description: 'use C2 macros')
+option('C4', type: 'boolean', value: true, description: 'use C4 macros')
